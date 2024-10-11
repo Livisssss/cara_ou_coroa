@@ -1,16 +1,13 @@
-# cara_ou_coroa
+# Cara ou Coroa
 
-A new Flutter project.
+## Descrição
+O "Cara ou Coroa" é um aplicativo simples e divertido que simula o lançamento de uma moeda, permitindo que o usuário escolha entre "cara" ou "coroa". O resultado do sorteio é exibido em uma nova tela, onde o usuário pode ver a imagem correspondente e optar por jogar novamente.
 
-## Getting Started
+## Funcionalidades
+- Lançamento de moeda com dois resultados possíveis: cara ou coroa.
+- Exibição do resultado em uma nova tela, com imagens representativas.
+- Navegação simples entre telas, permitindo que o usuário retorne e jogue novamente.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+- Flutter: Framework para desenvolvimento de aplicativos móveis.
+- Dart: Linguagem de programação utilizada para desenvolver o aplicativo.
